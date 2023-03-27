@@ -1,2 +1,27 @@
-# game.io
-This page is designed to update the latest minigames powered by YuQirui!
+# DJ YuQirui的小游戏系列
+
+
+本页面用于更新由DJ YuQirui设计的最新小游戏！
+
+## 大头足球系列
+
+
+### 游玩注意事项：
+
+1.请下载游戏后，在编程环境中运行py文件；
+
+2.请预装pygame与pymunk库；
+
+3.请在游戏时保持大写锁定！
+
+
+### [BigHead V1.1 下载链接]()
+
+
+V1.0 → V1.1更新：1.稍稍改变了比赛场地； 2.添加了比赛结束时胜负判定的字幕。
+
+
+### [BigHead V1.0 下载链接]()
+
+
+欢迎来到大头足球！本程序是一个对玩了六年的游戏的拙劣模仿，但是程序员正在努力让它更真实有趣。
