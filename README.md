@@ -14,11 +14,16 @@
 
 3.请在游戏时保持大写锁定！
 
+### [BigHead V2.0 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.0.rar)
+
+
+V1.1 → V2.0更新：1.增加了初代射门引擎; 2.稍稍改变了游戏玩家和球的大小。
+
 
 ### [BigHead V1.1 下载链接](https://pkubaogu.github.io/game.io/BigHeadV1.1.rar)
 
 
-V1.0 → V1.1更新：1.稍稍改变了比赛场地； 2.添加了比赛结束时胜负判定的字幕。
+V1.0 → V1.1更新：1.稍稍改变了比赛场地; 2.添加了比赛结束时胜负判定的字幕。
 
 
 ### [BigHead V1.0 下载链接](https://pkubaogu.github.io/game.io/BigHeadV1.0.rar)
