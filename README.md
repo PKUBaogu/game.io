@@ -15,13 +15,13 @@
 3.请在游戏时保持大写锁定！
 
 
-### [BigHead V1.1 下载链接]()
+### [BigHead V1.1 下载链接](https://pkubaogu.github.io/game.io/BigHeadV1.1.rar)
 
 
 V1.0 → V1.1更新：1.稍稍改变了比赛场地； 2.添加了比赛结束时胜负判定的字幕。
 
 
-### [BigHead V1.0 下载链接]()
+### [BigHead V1.0 下载链接](https://pkubaogu.github.io/game.io/BigHeadV1.0.rar)
 
 
 欢迎来到大头足球！本程序是一个对玩了六年的游戏的拙劣模仿，但是程序员正在努力让它更真实有趣。
