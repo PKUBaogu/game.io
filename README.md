@@ -15,6 +15,12 @@
 3.请在游戏时保持大写锁定！
 
 
+### [BigHead V2.2 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.2.rar) 发布于2023.3.29
+
+
+1.调整了游戏地图与部分游戏参数；2.首次添加了人物名字与头像；3.添加了赛前3秒准备时间；4.增加了背景。
+
+
 ### [BigHead V2.1 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.1.rar) 发布于2023.3.28
 
 
