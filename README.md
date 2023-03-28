@@ -6,13 +6,20 @@
 ## 大头足球系列
 
 
-### 游玩注意事项：
+### 游玩注意事项：见ReadMe文件（V2.1版本及更高）
 
 1.请下载游戏后，在编程环境中运行py文件；
 
 2.请预装pygame与pymunk库；
 
 3.请在游戏时保持大写锁定！
+
+
+### [BigHead V2.1 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.1.rar)
+
+
+1.增加了ReadMe游戏前必读文件；2.调整了部分游戏参数; 3.将修改FPS的代码写在了第一行，便于适配各台电脑; 4.调整了游戏标题，增加了FPS值显示; 5.支持显示足球在短时间内运动的轨迹。
+
 
 ### [BigHead V2.0 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.0.rar)
 
