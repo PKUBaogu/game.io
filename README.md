@@ -15,25 +15,25 @@
 3.请在游戏时保持大写锁定！
 
 
-### [BigHead V2.1 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.1.rar)
+### [BigHead V2.1 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.1.rar) 发布于2023.3.28
 
 
 1.增加了ReadMe游戏前必读文件；2.调整了部分游戏参数; 3.将修改FPS的代码写在了第一行，便于适配各台电脑; 4.调整了游戏标题，增加了FPS值显示; 5.支持显示足球在短时间内运动的轨迹。
 
 
-### [BigHead V2.0 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.0.rar)
+### [BigHead V2.0 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.0.rar) 发布于2023.3.27
 
 
 V1.1 → V2.0更新：1.增加了初代射门引擎; 2.稍稍改变了游戏玩家和球的大小。
 
 
-### [BigHead V1.1 下载链接](https://pkubaogu.github.io/game.io/BigHeadV1.1.rar)
+### [BigHead V1.1 下载链接](https://pkubaogu.github.io/game.io/BigHeadV1.1.rar) 发布于2023.3.20
 
 
 V1.0 → V1.1更新：1.稍稍改变了比赛场地; 2.添加了比赛结束时胜负判定的字幕。
 
 
-### [BigHead V1.0 下载链接](https://pkubaogu.github.io/game.io/BigHeadV1.0.rar)
+### [BigHead V1.0 下载链接](https://pkubaogu.github.io/game.io/BigHeadV1.0.rar) 发布于2023.3.18
 
 
 欢迎来到大头足球！本程序是一个对玩了六年的游戏的拙劣模仿，但是程序员正在努力让它更真实有趣。
