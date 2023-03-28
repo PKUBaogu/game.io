@@ -15,7 +15,7 @@
 3.请在游戏时保持大写锁定！
 
 
-### [BigHead V2.1 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.1.rar)
+### [BigHead V2.1 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2..rar)
 
 
 1.增加了ReadMe游戏前必读文件；2.调整了部分游戏参数; 3.将修改FPS的代码写在了第一行，便于适配各台电脑; 4.调整了游戏标题，增加了FPS值显示; 5.支持显示足球在短时间内运动的轨迹。
