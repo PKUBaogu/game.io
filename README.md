@@ -15,6 +15,12 @@
 3.请在游戏时保持大写锁定！
 
 
+### [BigHead V2.3 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.3.rar) 发布于2023.3.30
+
+
+1.添加了球门,稍微修改了地图与射门模型；2.修复了关于跳跃的bug；3.将不同参数与颜色放进了单独的py文件中，便于查看与修改；4.增加了部分角色。
+
+
 ### [BigHead V2.2 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.2.rar) 发布于2023.3.29
 
 
