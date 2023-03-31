@@ -15,7 +15,7 @@
 3.请在游戏时保持大写锁定！
 
 
-### [BigHead V2.4 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.3.rar) 发布于2023.3.30
+### [BigHead V2.4 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.4.rar) 发布于2023.3.30
 
 
 1.添加了暂停按钮Esc与恢复游戏按钮Enter,添加了进球停表选项；2.修复了关于踢人弹开的bug；3.修改了地图的部分碰撞系数，添加了半透明通道；4.增加了部分角色以及角色的专属色。
