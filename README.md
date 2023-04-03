@@ -15,6 +15,12 @@
 3.请在游戏时保持大写锁定！
 
 
+### [BigHead V3.0 下载链接](https://pkubaogu.github.io/game.io/BigHeadV3.0.rar) 发布于2023.4.3
+
+
+1.添加了简易的图形化初始界面与选人界面; 2.添加了鼠标控制的暂停按钮; 3.重写了代码结构。
+
+
 ### [BigHead V2.4 下载链接](https://pkubaogu.github.io/game.io/BigHeadV2.4.rar) 发布于2023.3.31
 
 
