@@ -8,11 +8,17 @@
 
 ### 游玩注意事项：见ReadMe文件（V2.1版本及更高）
 
-1.请下载游戏后，在编程环境中运行py文件；
+1.请下载游戏后，用Python3在编程环境中运行py文件；
 
 2.请预装pygame与pymunk库；
 
 3.请在游戏时保持大写锁定！
+
+
+### [BigHead V3.1 下载链接](https://pkubaogu.github.io/game.io/BigHeadV3.1.rar) 发布于2023.4.4
+
+
+1.将游戏中需要用到的函数做成了包，重写了部分代码；2.更换了字体；3.添加了重新开始选项；4.添加了人物身体并修改了人物比例，添加了新背景并提供了更换背景选项。
 
 
 ### [BigHead V3.0 下载链接](https://pkubaogu.github.io/game.io/BigHeadV3.0.rar) 发布于2023.4.3
