@@ -9,7 +9,7 @@
 ### 请在游玩前阅读ReadMe文件！（V2.1版本及更高）<br>
 请在游戏过程中保持大写锁定！<br>
 <br>
-BigHead V3.2 发布于2023.4.6
+###BigHead V3.2 发布于2023.4.6<br>
 1.将文件做成了可直接运行的EXE文件（目前仅限Windows版, Mac用户请继续用Python打开）；2.简化了MENU界面，并支持在Settings中用小键盘输入;3.增加了数据统计界面。<br>
 [BigHead V3.2 Windows exe版下载链接](https://pkubaogu.github.io/game.io/BigHeadV3.2exe.rar) <br>
 [BigHead V3.2 代码版下载链接](https://pkubaogu.github.io/game.io/BigHeadV3.2.rar) <br>
