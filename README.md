@@ -9,6 +9,12 @@
 ### 请在游玩前阅读ReadMe文件！（V2.1版本及更高）<br>
 请在游戏过程中保持大写锁定！<br>
 <br>
+### BigHead V4.0 发布于2023.4.10
+
+
+增加了不完善的道具系统，并在数据统计中增加了相应数据。<br>
+[BigHead V4.0 Windows exe版下载链接](https://pkubaogu.github.io/game.io/BigHeadV4.0exe.rar) <br>
+[BigHead V4.0 代码版下载链接](https://pkubaogu.github.io/game.io/BigHeadV4.0.rar) <br>
 ### BigHead V3.2 发布于2023.4.6
 
 
