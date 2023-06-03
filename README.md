@@ -11,7 +11,7 @@
 <br>
 ### BigHead V4.1 发布于2023.6.3
 1.增加了更多的道具；2.增加了帮助界面，增加了白天/黑夜模式的字体差异；3.修复了道具碰撞位置与部分道具作用时间与对象的bug。<br>
-BigHead V4.1 Windows exe版 见GitHub上的Release链接（文件大小超过了25M）
+BigHead V4.1 Windows exe版 见GitHub上的Release链接（文件大小超过了25M）<br>
 [BigHead V4.1 代码版下载链接](https://pkubaogu.github.io/game.io/BigHeadV4.1.rar) <br>
 ### BigHead V4.0 发布于2023.4.10
 
