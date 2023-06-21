@@ -10,13 +10,13 @@
 请在游戏过程中保持大写锁定！<br>
 <br>
 ### BigHead V5.0 发布于2023.6.21
-1.增加了按分数计算结果、加时赛与点球大战的模式; 2.修改了少量射门模型。
+1.增加了按分数计算结果、加时赛与点球大战的模式; 2.修改了少量射门模型。<br>
 BigHead V5.0 Windows exe版 见GitHub上的Release链接<br>
 [BigHead V5.0 代码版下载链接](https://pkubaogu.github.io/game.io/BigHeadV5.0.rar) <br>
 ### BigHead V4.2 发布于2023.6.17
 
 
-1.增加了更多的道具; 2.完善了道具说明界面; 3.优化了代码结构，使得代码更精炼，游戏更流畅。
+1.增加了更多的道具; 2.完善了道具说明界面; 3.优化了代码结构，使得代码更精炼，游戏更流畅。<br>
 BigHead V4.2 Windows exe版 见GitHub上的Release链接<br>
 [BigHead V4.2 代码版下载链接](https://pkubaogu.github.io/game.io/BigHeadV4.2.rar) <br>
 ### BigHead V4.1 发布于2023.6.3
